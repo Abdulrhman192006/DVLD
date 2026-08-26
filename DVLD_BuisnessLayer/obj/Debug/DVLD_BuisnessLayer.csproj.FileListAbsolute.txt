@@ -25,3 +25,17 @@ D:\Abdo\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_Bui.05221B9C.Up2Date
 D:\Abdo\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_BuisnessLayer.dll
 D:\Abdo\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_BuisnessLayer.pdb
 D:\Abdo\DVLD\DVLD_BuisnessLayer\bin\Debug\Guna.UI2.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\DVLD_BuisnessLayer.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\DVLD_BuisnessLayer.pdb
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\DVLD_DataAccess.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\GumroadLicensing.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\NavigationMenu.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\Guna.UI2.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_Bui.05221B9C.Up2Date
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_BuisnessLayer.dll
+C:\Users\abdul\Source\Repos\DVLD\DVLD_BuisnessLayer\obj\Debug\DVLD_BuisnessLayer.pdb
